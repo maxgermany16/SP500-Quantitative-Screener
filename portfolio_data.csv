@@ -1,0 +1,15 @@
+"ticker","sector","pe_ratio","rev_growth_pct","close_price","wma_200"
+DIS,Communication Services,14.68,15.66,99.65,100.93
+TTD,Communication Services,26.17,14.52,23.56,70.39
+DECK,Consumer Discretionary,15.04,36.81,105.89,106.20
+DPZ,Consumer Discretionary,22.02,33.89,386.48,395.09
+TGT,Consumer Staples,14.24,20.51,115.79,127.34
+CLX,Consumer Staples,17.90,17.07,109.19,131.45
+GEHC,Health Care,15.64,10.77,71.17,77.63
+ZBH,Health Care,25.17,12.11,89.35,110.35
+UPS,Industrials,14.79,14.31,97.00,127.92
+PAYC,Industrials,15.44,10.34,124.73,234.58
+IT,Information Technology,16.30,14.99,157.25,363.94
+SMCI,Information Technology,22.54,152.75,30.88,34.31
+ZBRA,Information Technology,25.67,11.74,209.76,297.42
+INTU,Information Technology,28.99,19.72,446.20,545.83
